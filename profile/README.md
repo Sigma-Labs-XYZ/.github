@@ -14,4 +14,4 @@ Sigma Labs was founded on two core beliefs:
 
 Find out more at:
 
-https://www.sigmalabs.co.uk/about-us
+https://www.sigmalabs.co.uk
